@@ -1,9 +1,9 @@
 {
-  "versionCode": 33,
-  "versionName": "2.3.0",
+  "versionCode": 34,
+  "versionName": "2.3.1",
   "appName": "OpenTV",
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
   "releaseDate": "2026-10-29",
-  "releaseNotes": "• Fixed TV playback for Xtream Live channels & VOD Movies\n• Dedicated Movie Player Dock with interactive Seek Bar & ±10s controls\n• 100-item chunked pagination for lightning-fast scrolling through thousands of movies\n• Full-screen multi-row TV grid layout (5-6 columns across)\n• Reordered tabs with Free Public first and seamless D-Pad switching\n• Removed unnecessary Featured category row"
+  "releaseNotes": "• Large 2:3 portrait movie posters with full cover art filling the card\n• Language and category prefixes cleanly stripped from movie titles (e.g. Adinaasam Vellapokkam - 2025)\n• Dedicated Movie Player OSD dock with interactive seek bar and timeline scrubber\n• ±10s fast forward and rewind controls with on-screen HUD (no accidental movie jumping)\n• Smooth D-Pad remote control seeking and play/pause controls"
 }

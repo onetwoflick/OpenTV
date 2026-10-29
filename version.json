@@ -1,9 +1,9 @@
 {
-  "versionCode": 35,
-  "versionName": "2.3.2",
+  "versionCode": 36,
+  "versionName": "2.3.3",
   "appName": "OpenTV",
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
   "releaseDate": "2026-10-29",
-  "releaseNotes": "• Fixed title cleaning regex so channel & movie names are never truncated (preserves Asianet, Inception, Inside Out, etc.)\n• Separate shelves for each English VOD category (Latest Movies, Movies 4K, Netflix, Disney+, HBO/Prime, Apple TV+, Paramount+, Sports)\n• Removed all unwanted foreign language VODs from English catalog\n• Dedicated jump pills for instant navigation across all VOD categories\n• Fast targeted category loading & in-memory caching"
+  "releaseNotes": "• Direct individual VOD category cards on the VOD landing page (Malayalam, Latest Movies, Movies 4K, Netflix 4K, Netflix, Disney+, HBO/Prime, Sports VOD, Apple TV+, Paramount+)\n• Instant targeted category loading: fetches only the selected category instead of all VODs at once\n• Safe title cleaning preserves all proper names (Asianet, Inception, Inside Out)\n• In-memory caching for 0ms re-visits"
 }

@@ -5,5 +5,5 @@
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
   "releaseDate": "2026-10-29",
-  "releaseNotes": "• Large 2:3 portrait movie posters with full cover art filling the card\n• Language and category prefixes cleanly stripped from movie titles (e.g. Adinaasam Vellapokkam - 2025)\n• Dedicated Movie Player OSD dock with interactive seek bar and timeline scrubber\n• ±10s fast forward and rewind controls with on-screen HUD (no accidental movie jumping)\n• Smooth D-Pad remote control seeking and play/pause controls"
+  "releaseNotes": "• Ultra-fast VOD & Live category loading (<0.3s) using targeted category_id API queries\n• Instant 0ms tab switching via in-memory streaming cache\n• Completely removed inaccurate EPG and mini-guide for lightning-fast TV performance\n• Updated in-app version indicator to v2.3.1\n• Large 2:3 portrait movie posters with clean titles (prefixes removed)\n• Dedicated Movie Player OSD dock with timeline scrubber & ±10s remote seeking"
 }

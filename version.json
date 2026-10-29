@@ -1,0 +1,9 @@
+{
+  "versionCode": 32,
+  "versionName": "2.2.0",
+  "appName": "OpenTV",
+  "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
+  "githubUrl": "https://github.com/onetwoflick/OpenTV",
+  "releaseDate": "2026-10-29",
+  "releaseNotes": "• Xtream Codes Live TV & VOD integration\n• Curated Malayalam (AS | IN | MALAYALAM) and English categories\n• Slide-out Quick Channel Guide (Left Arrow or Guide button)\n• In-app Auto Update notifications from GitHub\n• Native MediaCodec 4K UHD & H.265 hardware decoding"
+}

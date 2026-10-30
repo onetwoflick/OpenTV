@@ -1,9 +1,9 @@
 {
-  "versionCode": 39,
-  "versionName": "2.3.6",
+  "versionCode": 40,
+  "versionName": "2.3.7",
   "appName": "OpenTV",
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
   "releaseDate": "2026-10-29",
-  "releaseNotes": "• TMDB API Integration: Search movies by Actor name across entire IPTV catalog\n• Actor Spotlight card in Search with photo, bio, and matched streamable movies\n• Movie Details & Cast modal with backdrop, plot synopsis, ratings, and clickable cast"
+  "releaseNotes": "• Fixed search UI zoom: search results now render in a clean 6-column grid on PC and TV\n• Added intelligent spell correction for actor typos (e.g., \"mammoty\" auto-corrects to \"Mammootty\")\n• Displays correction badge and automatically presents actor filmography and streamable movies"
 }

@@ -1,9 +1,9 @@
 {
-  "versionCode": 44,
-  "versionName": "2.3.11",
+  "versionCode": 45,
+  "versionName": "2.3.12",
   "appName": "OpenTV",
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
   "releaseDate": "2026-10-30",
-  "releaseNotes": "• Precision Malayalam TMDB Match Engine: Eliminates false Hollywood matches (e.g. Patriot now correctly matches Malayalam film starring Mammootty, Mohanlal, Fahadh Faasil instead of 2000 Mel Gibson movie)\n• Complete IPTV Prefix & Suffix Stripping: Removes SIN -, MAL -, ML -, IND -, [Malayalam], [1080p], resolving loading stalls for CBI 5: The Brain and hundreds of movies\n• Malayalam Language Boost & Pagination: Smart +160 language weighting and multi-page search fallback for regional titles\n• Full TV Remote D-Pad Navigation in Movie Details: Seamless browsing across Cast cards with Enter/OK to search actor filmographies\n• Universal Enter/OK activation for all search and library movie cards"
+  "releaseNotes": "• Intelligent VOD Deduplication: Fixed Mohanlal & actor search where broken free public channels shadowed real paid Xtream movies; paid VOD with verified year now ALWAYS wins\n• Suppressed Dead Free Web Channels in Search: Eliminates broken streams like Russian Patriot channel when genuine Malayalam movies exist\n• Expanded Regional VOD Library (3,410+ Movies): Added South Indian (2,254 movies) and Indian Hits (49 movies) alongside Malayalam Movies (1,109 movies)\n• Instant Search Indexing: Newly loaded Xtream VOD items are automatically prepended into global search memory"
 }

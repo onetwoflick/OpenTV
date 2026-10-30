@@ -1,9 +1,9 @@
 {
-  "versionCode": 41,
-  "versionName": "2.3.8",
+  "versionCode": 42,
+  "versionName": "2.3.9",
   "appName": "OpenTV",
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
   "releaseDate": "2026-10-30",
-  "releaseNotes": "• Fixed search UI card layout: eliminated squished/flattened cards, now displays proportional movie posters & 16:9 channel banners\n• Added responsive min-height & aspect-ratio guarantees preventing CSS Grid flex collapse\n• Optimized single-letter and high-count queries with clear result limits\n• Enhanced TV remote D-Pad navigation across search rows & section headers"
+  "releaseNotes": "• Fixed search UI grid: exactly 6 proportional poster columns on TV/PC (no more crammed 8 columns)\n• Eliminated false positive filmography matches in TMDB actor cross-referencing\n• Fixed mixed card aspect ratios (all actor filmography cards are tall 2:3 vertical posters)\n• Fixed search header scrolling off screen by locking overlay viewport & scrolling results cleanly underneath"
 }

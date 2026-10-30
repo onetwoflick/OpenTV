@@ -1,9 +1,9 @@
 {
-  "versionCode": 37,
-  "versionName": "2.3.4",
+  "versionCode": 38,
+  "versionName": "2.3.5",
   "appName": "OpenTV",
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
   "releaseDate": "2026-10-29",
-  "releaseNotes": "• Refined movie poster grid sizing (proportional 6 columns on Android TV & browser)\n• Restored instant D-Pad remote navigation from toolbar to movie cards\n• One-touch APK update download pipeline via Android Intent\n• Suppressed repetitive update prompts"
+  "releaseNotes": "• Auto-dismissing seek HUD notification with zero sticking on screen\n• Silky smooth debounced video scrubbing with smart acceleration\n• Optimized 65-inch 4K TV movie grid (5 to 6 movies per row)\n• Elegant glowing center-screen pause indicator"
 }

@@ -1,9 +1,9 @@
 {
-  "versionCode": 40,
-  "versionName": "2.3.7",
+  "versionCode": 41,
+  "versionName": "2.3.8",
   "appName": "OpenTV",
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
-  "releaseDate": "2026-10-29",
-  "releaseNotes": "• Fixed search UI zoom: search results now render in a clean 6-column grid on PC and TV\n• Added intelligent spell correction for actor typos (e.g., \"mammoty\" auto-corrects to \"Mammootty\")\n• Displays correction badge and automatically presents actor filmography and streamable movies"
+  "releaseDate": "2026-10-30",
+  "releaseNotes": "• Fixed search UI card layout: eliminated squished/flattened cards, now displays proportional movie posters & 16:9 channel banners\n• Added responsive min-height & aspect-ratio guarantees preventing CSS Grid flex collapse\n• Optimized single-letter and high-count queries with clear result limits\n• Enhanced TV remote D-Pad navigation across search rows & section headers"
 }

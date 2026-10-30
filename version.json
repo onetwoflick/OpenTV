@@ -1,9 +1,9 @@
 {
-  "versionCode": 47,
-  "versionName": "2.4.0",
+  "versionCode": 48,
+  "versionName": "2.4.1",
   "appName": "OpenTV",
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
   "releaseDate": "2026-10-30",
-  "releaseNotes": "  Nodecast-TV Features & Ultra-Fast TV UI:\n  Dedicated TV Series Support: Indian TV Series (890+ shows), Netflix & Streaming Series, Latest Releases, and Docuseries with multi-season pills and episode lists\n  Cable-TV Style Fast Channel Zap HUD: Instant corner banner with channel number, logo, clean title, subcategory, and stream quality\n  High Performance 30-Card Batching: Smooth 60fps scrolling across 7,000+ channel playlists with virtualized batch rendering\n  Purged All ##### Divider Cards & 24/7 Loops: Cleaned all channel lists and separated Malayalam channels into true subcategories (General, News, Entertainment, Movies, Kids, etc.)\n  Expanded Malayalam & South Indian VOD: Preloads 3,360+ movies into global search memory with smart TMDB metadata and intelligent deduplication"
+  "releaseNotes": "🚀 OpenTV v2.4.1 (Build 48) - Full Dolby Digital & Multi-Audio Playback:\n• Native External Player Bridge: Integrated Android Intent bridge with video/* MIME type to launch VLC for Android, MX Player, or Just Player with 100% hardware audio decoding\n• Solved Silent VOD Audio: Solves missing sound on South Indian & Malayalam movies encoded with Dolby Digital Plus (E-AC-3 5.1), AC-3, or multi-track audio\n• Movie Details \"Play in External Player\": One-click external launch with helpful audio codec guidance hint\n• In-Player OSD Dock Button: Switch to External Player on the fly if a stream has unsupported audio\n• TV Series Per-Episode VLC Launcher: Quick \"🚀 VLC\" button on every episode item\n• Default VOD Player Preference: Choose between Built-in player or External Player as default in Settings"
 }

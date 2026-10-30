@@ -1,9 +1,9 @@
 {
-  "versionCode": 45,
-  "versionName": "2.3.12",
+  "versionCode": 46,
+  "versionName": "2.3.13",
   "appName": "OpenTV",
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
   "releaseDate": "2026-10-30",
-  "releaseNotes": "• Intelligent VOD Deduplication: Fixed Mohanlal & actor search where broken free public channels shadowed real paid Xtream movies; paid VOD with verified year now ALWAYS wins\n• Suppressed Dead Free Web Channels in Search: Eliminates broken streams like Russian Patriot channel when genuine Malayalam movies exist\n• Expanded Regional VOD Library (3,410+ Movies): Added South Indian (2,254 movies) and Indian Hits (49 movies) alongside Malayalam Movies (1,109 movies)\n• Instant Search Indexing: Newly loaded Xtream VOD items are automatically prepended into global search memory"
+  "releaseNotes": "• Purged Fake Divider Cards: Removed ##### separator channels and created true Malayalam subcategories (General, Entertainment, News, Movies, Kids, Documentary, Music, Devotional)\n• Filtered 24/7 Loops: Completely eliminated repetitive GOLD TV 24/7 loop streams\n• Curated Live NBA Games: Instant 1-click access to Live NBA Games and In-Arena feeds from the home shelf\n• Isolated Local Affiliate Bloat: Cut down ABC, CBS, NBC, FOX, PBS and CW affiliates into their own shelf to keep Curated English TV fast\n• Auto-Indexed Paid Malayalam VOD: Preloads Malayalam movies into search memory so actor & movie searches immediately show real movies with TMDB posters"
 }

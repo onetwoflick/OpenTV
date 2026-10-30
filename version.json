@@ -1,9 +1,9 @@
 {
-  "versionCode": 36,
-  "versionName": "2.3.3",
+  "versionCode": 37,
+  "versionName": "2.3.4",
   "appName": "OpenTV",
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
   "releaseDate": "2026-10-29",
-  "releaseNotes": "• Direct individual VOD category cards on the VOD landing page (Malayalam, Latest Movies, Movies 4K, Netflix 4K, Netflix, Disney+, HBO/Prime, Sports VOD, Apple TV+, Paramount+)\n• Instant targeted category loading: fetches only the selected category instead of all VODs at once\n• Safe title cleaning preserves all proper names (Asianet, Inception, Inside Out)\n• In-memory caching for 0ms re-visits"
+  "releaseNotes": "• Refined movie poster grid sizing (proportional 6 columns on Android TV & browser)\n• Restored instant D-Pad remote navigation from toolbar to movie cards\n• One-touch APK update download pipeline via Android Intent\n• Suppressed repetitive update prompts"
 }

@@ -1,9 +1,9 @@
 {
-  "versionCode": 38,
-  "versionName": "2.3.5",
+  "versionCode": 39,
+  "versionName": "2.3.6",
   "appName": "OpenTV",
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
   "releaseDate": "2026-10-29",
-  "releaseNotes": "• Auto-dismissing seek HUD notification with zero sticking on screen\n• Silky smooth debounced video scrubbing with smart acceleration\n• Optimized 65-inch 4K TV movie grid (5 to 6 movies per row)\n• Elegant glowing center-screen pause indicator"
+  "releaseNotes": "• TMDB API Integration: Search movies by Actor name across entire IPTV catalog\n• Actor Spotlight card in Search with photo, bio, and matched streamable movies\n• Movie Details & Cast modal with backdrop, plot synopsis, ratings, and clickable cast"
 }

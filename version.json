@@ -1,9 +1,9 @@
 {
-  "versionCode": 46,
-  "versionName": "2.3.13",
+  "versionCode": 47,
+  "versionName": "2.4.0",
   "appName": "OpenTV",
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
   "releaseDate": "2026-10-30",
-  "releaseNotes": "• Purged Fake Divider Cards: Removed ##### separator channels and created true Malayalam subcategories (General, Entertainment, News, Movies, Kids, Documentary, Music, Devotional)\n• Filtered 24/7 Loops: Completely eliminated repetitive GOLD TV 24/7 loop streams\n• Curated Live NBA Games: Instant 1-click access to Live NBA Games and In-Arena feeds from the home shelf\n• Isolated Local Affiliate Bloat: Cut down ABC, CBS, NBC, FOX, PBS and CW affiliates into their own shelf to keep Curated English TV fast\n• Auto-Indexed Paid Malayalam VOD: Preloads Malayalam movies into search memory so actor & movie searches immediately show real movies with TMDB posters"
+  "releaseNotes": "  Nodecast-TV Features & Ultra-Fast TV UI:\n  Dedicated TV Series Support: Indian TV Series (890+ shows), Netflix & Streaming Series, Latest Releases, and Docuseries with multi-season pills and episode lists\n  Cable-TV Style Fast Channel Zap HUD: Instant corner banner with channel number, logo, clean title, subcategory, and stream quality\n  High Performance 30-Card Batching: Smooth 60fps scrolling across 7,000+ channel playlists with virtualized batch rendering\n  Purged All ##### Divider Cards & 24/7 Loops: Cleaned all channel lists and separated Malayalam channels into true subcategories (General, News, Entertainment, Movies, Kids, etc.)\n  Expanded Malayalam & South Indian VOD: Preloads 3,360+ movies into global search memory with smart TMDB metadata and intelligent deduplication"
 }

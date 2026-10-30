@@ -1,9 +1,9 @@
 {
-  "versionCode": 50,
-  "versionName": "2.4.3",
+  "versionCode": 51,
+  "versionName": "2.4.4",
   "appName": "OpenTV",
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
   "releaseDate": "2026-10-30",
-  "releaseNotes": "🏆 OpenTV v2.4.3 (Build 50) - Comprehensive QA & Production Polish:\n• Verified 100% Zero-Error Architecture: Comprehensive automated browser and remote control audit passed with 0 runtime exceptions\n• TV Series Modal Remote Back Fix: TV remote Back key now properly closes Series Details modal and returns focus to the series card\n• D-Pad Focus Restoration: When closing Movie or Series modals, remote focus instantly returns to the previously highlighted card\n• Backdrop Click-to-Close: Clicking anywhere outside dialog cards now closes modals cleanly\n• Cleaned Legacy Stubs: Purged dead quick-guide references for a pristine JavaScript runtime\n• Full Dolby AC3 / EAC3 5.1 External Player Bridge & Cable-TV Channel Zap HUD intact"
+  "releaseNotes": "🛡️ OpenTV v2.4.4 (Build 51) - Anti-White-Screen Shield & Clean TV Back Navigation:\n• Eliminated White Screen Glitch: Fixed TV Series back navigation trap where pressing Back inside the series modal previously dropped through to exit\n• Native Android Dark Shield: Set persistent #070d18 dark background on Android ConstraintLayout and WebView XML layers, preventing any white flashes during transitions\n• Inline Dark HTML/Body: Prevented default browser white canvas paints before stylesheet evaluation\n• Safe External Player Fallback: Blocked webview URL navigation in the Android APK so stream URLs never take over the app view\n• 100% Remote D-Pad & Back key stability verified across all live, VOD, and series views"
 }

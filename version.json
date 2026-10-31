@@ -1,9 +1,9 @@
 {
-  "versionCode": 51,
-  "versionName": "2.4.4",
+  "versionCode": 52,
+  "versionName": "2.5.0",
   "appName": "OpenTV",
   "apkUrl": "https://raw.githubusercontent.com/onetwoflick/OpenTV/main/OpenTV.apk",
   "githubUrl": "https://github.com/onetwoflick/OpenTV",
   "releaseDate": "2026-10-30",
-  "releaseNotes": "🛡️ OpenTV v2.4.4 (Build 51) - Anti-White-Screen Shield & Clean TV Back Navigation:\n• Eliminated White Screen Glitch: Fixed TV Series back navigation trap where pressing Back inside the series modal previously dropped through to exit\n• Native Android Dark Shield: Set persistent #070d18 dark background on Android ConstraintLayout and WebView XML layers, preventing any white flashes during transitions\n• Inline Dark HTML/Body: Prevented default browser white canvas paints before stylesheet evaluation\n• Safe External Player Fallback: Blocked webview URL navigation in the Android APK so stream URLs never take over the app view\n• 100% Remote D-Pad & Back key stability verified across all live, VOD, and series views"
+  "releaseNotes": "🎬 OpenTV v2.5.0 (Build 52) - Cinematic 4-Column UI & Complete Remote Dock Navigation:\n• Maximum 4 Items Per Row: Live TV, Movies, Series, and Search shelves locked to a spacious, cinematic 4 items per row layout with larger posters and logos\n• 10-Foot TV Readability: Scaled top bar tabs, screen title, clock, channel names, and movie titles for comfortable viewing from 10 feet away\n• Restored Free Public Tab: Seamless bidirectional remote D-Pad navigation to and from the Free Web tab\n• Global Scrollbar Purge: Completely eliminated all vertical and horizontal scrollbars on the bottom and right\n• Movie Player D-Pad Dock Navigation: Down arrow and Left/Right now smoothly scroll between player buttons (Rewind, Play/Pause, Forward, 🚀 External Player/VLC, Restart, Info) with intense focus glow\n• One-Click VLC Handoff: Switch from the built-in player to VLC / MX Player right from the remote control during playback or while paused"
 }
